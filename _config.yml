@@ -3,10 +3,11 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   I am graduate student in Physics at Harvard Unversity. I mainly focus on astrophysics and astrostaticstics.
   <br><br>
+  <a href = "mailto: corefranciscopark@g.harvard.edu">Send Email:</a>
   corefranciscopark@g.harvard.edu
+  <a href = "mailto: cfpark00@gmail.com">Send Email:</a>
   cfpark00@gmail.com
   <br><br>
-  <a href="https://www.facebook.com/corefranciscopark">View My Facebook Profile</a> 
+  <a href="https://www.facebook.com/corefranciscopark" target="_blank">View My Facebook Profile</a> 
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
