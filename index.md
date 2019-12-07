@@ -16,6 +16,10 @@ I was an undergraduate research assitant for the CAPP18T experiment at Korea Adv
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 ---
+### Delaunay Tesselation Field Estimator in Python (2019/10)
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
 ### Barnes-Hut Simulation in Python (2018/06)
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
@@ -23,6 +27,8 @@ I was an undergraduate research assitant for the CAPP18T experiment at Korea Adv
 ## Repositories
 ---
 ### __cosgeopy__, tools for geometrical analysis in cosmology
+__cosgeopy__ is a Python 3 package comprising multiple tools for geometrical analysis of point catalogs. It was created to be applied to cosmological catalogs.
+[__cosgeopy__](/sample_page)
 ---
 # Personal Life
 ---
