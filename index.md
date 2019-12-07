@@ -1,28 +1,36 @@
 # Academics
-
+---
 ## Curriculum Vitae
-
 [CV](/sample_page)
-
 ---
-
-## Personal Researches
-
+## Research Experiences
 ---
-
-### Barnes-Hut Simulation in Python 
-
+### CAPP18T Dark Matter Axion Experiment (2018/11)
+I was an undergraduate research assitant for the CAPP18T experiment at Korea Advanced Institute of Science and Technology (KAIST) / IBS(Institute for Basic Science).
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+## Personal Researches
 ---
-[Project 3 Title](http://example.com/)
+### Minkowski Functionals Applied to Galaxy Catalogs (2019/12)
+[Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+---
+### Barnes-Hut Simulation in Python (2018/06)
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+---
+## Repositories
+---
+### __cosgeopy__, tools for geometrical analysis in cosmology
+---
+# Personal Life
+---
+## Food
+---
+### Korean Food
+---
+## Bouldering
 ---
 
 ### Category Name 2
@@ -34,7 +42,6 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
 
 
 
