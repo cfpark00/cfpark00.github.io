@@ -1,4 +1,4 @@
-# Academics
+## Academics
 ---
 ## Curriculum Vitae
 [CV](/sample_page)
