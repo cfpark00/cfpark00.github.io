@@ -1,4 +1,4 @@
-title: Core Francisco Park
+<title> Core Francisco Park</t>
 
 # Academics
 ---
