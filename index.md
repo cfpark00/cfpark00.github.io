@@ -1,8 +1,14 @@
-## Portfolio
+## Curriculum Vitae
+
+[CV](/sample_page)
 
 ---
 
-### Category Name 1 
+## Personal Researches
+
+---
+
+### Barnes-Hut Simulation in Python 
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
