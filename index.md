@@ -1,5 +1,3 @@
-<title> Core Francisco Park</t>
-
 # Academics
 ---
 ## Curriculum Vitae
@@ -37,6 +35,8 @@ __cosgeopy__ is a Python 3 package comprising multiple tools for geometrical ana
 ## Food
 ---
 ### Korean Food
+Sign-up for Korean food party mailing list:
+[Korean Food Party](https://forms.gle/rvXoa9mFPG2KBBbE8)
 ---
 ## Bouldering
 ---
