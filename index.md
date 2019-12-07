@@ -1,7 +1,7 @@
 # Academics
 ---
 ## Curriculum Vitae
-[CV](/sample_page)
+[CV](/sample_page)asd
 ---
 ## Research Experiences
 ---
