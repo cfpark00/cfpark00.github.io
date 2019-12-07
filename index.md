@@ -26,9 +26,9 @@ I was an undergraduate research assitant for the CAPP18T experiment at Korea Adv
 ---
 ## Repositories
 ---
-### __cosgeopy__, tools for geometrical analysis in cosmology
+### _cosgeopy_, tools for geometrical analysis in cosmology
 __cosgeopy__ is a Python 3 package comprising multiple tools for geometrical analysis of point catalogs. It was created to be applied to cosmological catalogs.
-[__cosgeopy__](/sample_page)
+[_cosgeopy_](/sample_page)
 ---
 # Personal Life
 ---
