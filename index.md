@@ -1,4 +1,6 @@
-## Academics
+title: Core Francisco Park
+
+# Academics
 ---
 ## Curriculum Vitae
 [CV](/sample_page)
