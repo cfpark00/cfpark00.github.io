@@ -16,6 +16,7 @@ The report "Real time DAQ setup and dead-time measurement for CAPP 18T Dark Matt
 ### Minkowski Functionals Applied to Galaxy Catalogs (2019/12)
 In the cosmology course of Professor Cora Dvorkin at Harvard University, my final project was to extract non-Gaussianities from point samples using Minkowski Functionals. I developed a new method to calculate the Minkowski functionals using Voronoi Tesselations, together with an optimal boundary evaluation scheme. Other computational tools to investigate the geometry of point samples were developed. they are in the package _cosgeopy_ seen below. The work is summarized in the report: "Minkowski Functional Analysis to Extract Higher Order Correlation Functions from Simulations".  
 <a href="/pdf/CoreFPark_MinkowskiFunctionals.pdf" target="_blank">Minkowski Functional Analysis to Extract Higher Order Correlation Functions from Simulations</a>  
+  
 <img src="images/Thumb_CoreFPark_MinkowskiFunctionals.png?raw=true"/>
 
 ### Barnes-Hut Simulation in Python (2018/06)
