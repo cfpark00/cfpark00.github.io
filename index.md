@@ -19,7 +19,7 @@ In the cosmology course of Professor Cora Dvorkin at Harvard University, my fina
 
 ### Barnes-Hut Simulation in Python (2018/06)
 In the computational Physics course of Professor Hawoong Jeon at Korea Advanced Institute of Science and Technology, my final project was to build a graviational N-body simulation. To avoid the naive computational complexity of N<sup>2</sup>, I implemented the Barnes-Hut approximation based on an Oct-Tree. The methods and results are summarized in the report: "Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics". The code, _BarnesHutPy_, is uncommented but can be explained upon contact.  
-<a href="/pdf/CoreFPark_BHReport.pdf" target="_blank">Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics</a>
+<a href="/pdf/CoreFPark_BHReport.pdf" target="_blank">Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics</a>  
 <a href="https://github.com/cfpark00" target="_blank">_BarnesHutPy_</a>  
 <img src="images/Thumb_CoreFPark_BHReport.png?raw=true"/>
 
