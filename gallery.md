@@ -7,6 +7,8 @@
 <summary>Take A Look</summary>
   <img src="images/gallery/food/croissant0.jpg?raw=true"/>
 </details>
+  
+  
 
 ## Food
 ---
@@ -14,6 +16,8 @@
 <summary>Take A Look</summary>
   <img src="images/gallery/food/croissant0.jpg?raw=true"/>
 </details>
+  
+  
 
 ### Academic
 ---
@@ -21,3 +25,5 @@
 <summary>Take A Look</summary>
   <img src="images/gallery/academic/lssred.png?raw=true"/>
 </details>
+  
+  
