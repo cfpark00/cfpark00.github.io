@@ -1,9 +1,9 @@
 # Core Franciso Park's Gallery
 ---
 
-<details><summary><h2>Travel</h2></summary><p>
+<details><summary><h2>Travel</h2></summary>
 <img src="images/gallery/travel/Athens0.jpg?raw=true"/>
-</p></details>
+</details>
 
 ## Food
 ---
