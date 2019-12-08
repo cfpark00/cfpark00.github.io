@@ -1,10 +1,10 @@
 # Core Franciso Park's Gallery
 ---
-## Travel
----
 <details>
-<summary>Take A Look</summary>
-  <img src="images/gallery/travel/Athens0.jpg?raw=true"/>
+<summary>
+## Travel
+</summary>
+<img src="images/gallery/travel/Athens0.jpg?raw=true"/>
 </details>
 
 ## Food
