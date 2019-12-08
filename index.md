@@ -51,10 +51,8 @@ Sign-up for Korean food party mailing list:
 ---
 Here is the world map of places I traveled.  
 Seoul, Geneva, Paris, Boston
-<!DOCTYPE html>
-<html>
+
 <head>
-  <title></title>
   <script src="http://maps.google.com/maps/api/js"></script>
   <script src="gmaps.js"></script>
   <style type="text/css">
@@ -74,7 +72,6 @@ Seoul, Geneva, Paris, Boston
     });
   </script>
 </body>
-</html>
 
 
 ## Photography
