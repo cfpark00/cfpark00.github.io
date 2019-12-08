@@ -2,6 +2,7 @@
 ---
 <details>
 <summary>
+  
 ## Travel
 </summary>
 <img src="images/gallery/travel/Athens0.jpg?raw=true"/>
