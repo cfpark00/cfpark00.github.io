@@ -1,15 +1,13 @@
 # Academics
 ---
-## Curriculum Vitae
+## Curriculum Vitae: <a href="/pdf/CoreFPark_CV.pdf" target="_blank">CV</a>
 ---
-<a href="/pdf/Core_Francisco_Park_CV.pdf" target="_blank">CV</a>
-
 ## Research Experiences
 ---
 ### CAPP18T Dark Matter Axion Experiment (2018/11)
-I was an undergraduate research assitant for the CAPP18T experiment at Korea Advanced Institute of Science and Technology (KAIST) / IBS(Institute for Basic Science).
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+I was an undergraduate research assitant for the CAPP18T experiment at Korea Advanced Institute of Science and Technology (KAIST) / IBS(Institute for Basic Science). The experiment uses a tunable microwave cavity to detect the conversion of QCD Axions into microwave photons. I focused on the real time DAQ system, implementing a multithreaded FFT which can compute the DFT of a sample of 800 thousand points every 10 ms. Thus, the analog-to-digital can take samples at 80 MS/s without dead time.
+<a href="/pdf/CoreFPark_BSThesis" target="_blank">Bachelor Thesis</a>
+<img src="images/Thumb_CoreFPark_BSThesis.jpg?raw=true"/>
 
 ## Personal Researches
 ---
