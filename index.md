@@ -54,7 +54,7 @@ Seoul, Geneva, Paris, Boston
 
 ## Photography
 ---
-Beautiful photos and images fascinate me. Here is my <a href="/gallery" target="_blank">Gallery</a>.
+Beautiful photos and images fascinate me. Here is my <a href="/gallery">Gallery</a>.
 
 ## Bouldering
 ---
