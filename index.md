@@ -39,8 +39,19 @@ _cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analy
 Sign-up for Korean food party mailing list: 
 <a href="https://forms.gle/SeaEYtYGDi2MXJZK7" target="_blank">Sign up for Korean Food Party</a>
 
+## Travel
+---
+Here is the world map of places I traveled.
+
+## Photography
+---
+Beautiful photos and images fascinate me. Here is my gallery.  
+<img src="images/Giverny0.jpg?raw=true"/>
+<img src="images/Giverny1.jpg?raw=true"/>
+
 ## Bouldering
 ---
+I like lost physical activities. I find bouldering especially fun.
 
 <!---
 ## Guitar Learning
