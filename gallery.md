@@ -10,8 +10,7 @@
   <img src="images/gallery/travel/Athens0.jpg?raw=true"/>
   <img src="images/gallery/travel/Paris0.jpg?raw=true"/>
 </details>
-<br/></br>
-<br/></br>
+<br/><br/>
 
 ## Food
 ---
@@ -19,8 +18,7 @@
 <summary>Take A Look</summary>
   <img src="images/gallery/food/croissant0.jpg?raw=true"/>
 </details>
-<br/></br>
-<br/></br>
+<br/><br/>
 
 ### Academics
 ---
@@ -29,5 +27,4 @@
   <img src="images/gallery/academic/lssred.png?raw=true"/>
   <img src="images/gallery/academic/ss1.png?raw=true"/>
 </details>
-<br/></br>
-<br/></br>
+<br/><br/>
