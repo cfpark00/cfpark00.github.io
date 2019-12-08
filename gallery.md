@@ -7,8 +7,8 @@
 <summary>Take A Look</summary>
   <img src="images/gallery/food/croissant0.jpg?raw=true"/>
 </details>
-  
-  
+&NewLine;
+&NewLine;
 
 ## Food
 ---
@@ -16,14 +16,14 @@
 <summary>Take A Look</summary>
   <img src="images/gallery/food/croissant0.jpg?raw=true"/>
 </details>
-  
-  
+&NewLine;
+&NewLine;
 
-### Academic
+### Academics
 ---
 <details>
 <summary>Take A Look</summary>
   <img src="images/gallery/academic/lssred.png?raw=true"/>
 </details>
-  
-  
+&NewLine;
+&NewLine;
