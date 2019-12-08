@@ -52,26 +52,7 @@ Sign-up for Korean food party mailing list:
 Here is the world map of places I traveled.  
 Seoul, Geneva, Paris, Boston
 
-<head>
-  <script src="http://maps.google.com/maps/api/js"></script>
-  <script src="gmaps.js"></script>
-  <style type="text/css">
-    #map {
-      width: 400px;
-      height: 400px;
-    }
-  </style>
-</head>
-<body>
-  <div id="map"></div>
-  <script>
-    var map = new GMaps({
-      el: '#map',
-      lat: -12.043333,
-      lng: -77.028333
-    });
-  </script>
-</body>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d306141.380212437!2d126.3453416664724!3d33.3711157139061!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x350ce3544cc84045%3A0x66bc36d2981ebf31!2sJeju-do%2C+South+Korea!5e0!3m2!1sen!2sus!4v1473136714592" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 
 
 ## Photography
