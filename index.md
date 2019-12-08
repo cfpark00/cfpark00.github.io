@@ -2,7 +2,7 @@
 ---
 ## Curriculum Vitae
 ---
-[**CV**](/pdf/Core_Francisco_Park_CV.pdf)
+[CV](/pdf/Core_Francisco_Park_CV.pdf)
 
 ## Research Experiences
 ---
