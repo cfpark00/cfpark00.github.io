@@ -2,7 +2,7 @@
 ---
 <details>
 <summary>
-<h2>Travel</h2>
+<h2 style="display: inline;">Travel</h2>
 </summary>
 <img src="images/gallery/travel/Athens0.jpg?raw=true"/>
 </details>
