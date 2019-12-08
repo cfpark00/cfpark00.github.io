@@ -42,8 +42,10 @@ Sign-up for Korean food party mailing list:
 ## Bouldering
 ---
 
+<!---
 ## Guitar Learning
 ---
+--->
 
 ### Category Name 2
 - [Project 1 Title](http://example.com/)
