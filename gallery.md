@@ -1,6 +1,6 @@
 # Core Franciso Park's Gallery
 ---
-##Travel
+## Travel
 ---
 <details>
 <summary>Take A Look</summary>
@@ -11,13 +11,13 @@
 ---
 <details>
 <summary>Take A Look</summary>
-  <img src="images/gallery/food/croissant.jpg?raw=true"/>
+  <img src="images/gallery/food/croissant0.jpg?raw=true"/>
 </details>
 
 ### Academic
 ---
 <details>
 <summary>Take A Look</summary>
-  <img src="images/gallery/academic/lssred.pmg?raw=true"/>
+  <img src="images/gallery/academic/lssred.png?raw=true"/>
 </details>
 
