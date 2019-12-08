@@ -35,7 +35,7 @@ _cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analy
 
 ### _BarnesHutPy_, Barnes-Hut Simulation in Python (2018/06)
 The code, _BarnesHutPy_, is uncommented but can be explained upon contact. It implements the Barnes-Hut approximation based on an octr-tree structure to an n-body simulation. Dynamical time stepping and Ewald summation are not implemented. The potential is simply balanced assuming homogeneity.  
-<a href="https://github.com/cfpark00" target="_blank">_BarnesHutPy_</a>  
+<a href="https://github.com/cfpark00/BarnesHutPy" target="_blank">_BarnesHutPy_</a>  
   
 <img src="images/Thumb_BHPy.png?raw=true"/>
 
