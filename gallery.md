@@ -2,7 +2,7 @@
 ---
 ## Travel
 ---
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/gallery/travel/Athens0.jpg?raw=true"/>
 
 ## Food
 ---
