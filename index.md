@@ -6,22 +6,24 @@
 ---
 ### CAPP18T Dark Matter Axion Experiment (2018/11)
 I was an undergraduate research assitant for the CAPP18T experiment at Korea Advanced Institute of Science and Technology (KAIST) / IBS(Institute for Basic Science). The experiment uses a tunable microwave cavity to detect the conversion of QCD Axions into microwave photons. I focused on the real time DAQ system, implementing a multithreaded FFT which can compute the DFT of a sample of 800 thousand points every 10 ms. Thus, the analog-to-digital can take samples at 80 MS/s without dead time.
-<a href="/pdf/CoreFPark_BSThesis" target="_blank">Bachelor Thesis</a>
+The report "Real time DAQ setup and dead-time measurement for CAPP 18T Dark Matter Axion Search and its first results", which is my Bachelor thesis, summarizes the work.
+<a href="/pdf/CoreFPark_BSThesis.pdf" target="_blank">Real time DAQ setup and dead-time measurement for CAPP 18T Dark Matter Axion Search and its first results</a>
 <img src="images/Thumb_CoreFPark_BSThesis.jpg?raw=true"/>
 
 ## Personal Researches
 ---
 ### Minkowski Functionals Applied to Galaxy Catalogs (2019/12)
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
-### Delaunay Tesselation Field Estimator in Python (2019/10)
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In the cosmology course of Professor Cora Dvorkin at Harvard University, my final project was to extract non-Gaussianities from point samples using Minkowski Functionals. I developed a new method to calculate the Minkowski functionals using Voronoi Tesselations, together with an optimal boundary evaluation scheme. Other computational tools to investigate the geometry of point samples were developed. they are in the package _cosgeopy_ seen below. The work is summarized in the report: "Minkowski Functional Analysis to Extract Higher Order Correlation Functions from Simulations". 
+<a href="/pdf/CoreFPark_MinkowskiFunctionals.pdf" target="_blank">Minkowski Functional Analysis to Extract Higher Order Correlation Functions from Simulations</a>
+<img src="images/Thumb_CoreFPark_MinkowskiFunctionals.jpg?raw=true"/>
 
 ### Barnes-Hut Simulation in Python (2018/06)
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+In the computational Physics course of Professor Hawoong Jeon at Korea Advanced Institute of Science and Technology, my final project was to build a graviational N-body simulation. To avoid the naive computational complexity of N<sup>2</sup>, I implemented the Barnes-Hut approximation based on an Oct-Tree. The methods and results are summarized in the report: "Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics". The code is uncommented but can be explained upon contact.
+<a href="/pdf/CoreFPark_BHReport.pdf" target="_blank">Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics</a>
+<img src="images/Thumb_CoreFPark_BHReport.jpg?raw=true"/>
+
+<a href="https://github.com/cfpark00" target="_blank">_BarnesHutPython</a>
+<img src="images/Thumb_CoreFPark_BHReport.jpg?raw=true"/>
 
 ## Repositories
 ---
