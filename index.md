@@ -28,7 +28,7 @@ In the computational Physics course of Professor Hawoong Jeon at Korea Advanced 
 ## Repositories
 ---
 ### _cosgeopy_, tools for geometrical analysis in cosmology
-_cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analysis of point catalogs. It was created to be applied to cosmological catalogs.
+_cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analysis of point catalogs. It was created to be applied to cosmological catalogs.  
 <a href="https://github.com/cfpark00/lsspy" target="_blank">_cosgeopy_</a>
 
 # Personal Life
@@ -36,7 +36,7 @@ _cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analy
 ## Food
 ---
 ### Korean Food
-Sign-up for Korean food party mailing list:
+Sign-up for Korean food party mailing list: 
 <a href="https://forms.gle/T2jEdeK8aWmzpph88" target="_blank">Sign up for Korean Food Party</a>
 
 ## Bouldering
