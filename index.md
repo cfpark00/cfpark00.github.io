@@ -3,7 +3,6 @@
 ## Curriculum Vitae
 ---
 <a href="/pdf/Core_Francisco_Park_CV.pdf" target="_blank">CV</a>
-[//]: # [CV](/pdf/Core_Francisco_Park_CV.pdf)
 
 ## Research Experiences
 ---
