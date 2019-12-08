@@ -1,6 +1,5 @@
 # Core Franciso Park's Gallery
 ---
-
 <details>
   <summary>
     <h2>Travel</h2>
