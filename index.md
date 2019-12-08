@@ -1,7 +1,7 @@
 # Academics
 ---
 ## Curriculum Vitae
-[CV](www.google.com)asd
+*[CV](/sample_page)* dd
 ---
 ## Research Experiences
 ---
