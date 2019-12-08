@@ -37,7 +37,7 @@ _cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analy
 ---
 ### Korean Food
 Sign-up for Korean food party mailing list: 
-<a href="https://forms.gle/T2jEdeK8aWmzpph88" target="_blank">Sign up for Korean Food Party</a>
+<a href="https://forms.gle/SeaEYtYGDi2MXJZK7" target="_blank">Sign up for Korean Food Party</a>
 
 ## Bouldering
 ---
