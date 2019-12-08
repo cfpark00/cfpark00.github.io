@@ -54,10 +54,7 @@ Seoul, Geneva, Paris, Boston
 
 ## Photography
 ---
-Beautiful photos and images fascinate me. Here is my gallery.  
-  
-<img src="images/Giverny0.jpg?raw=true"/>
-<img src="images/Giverny1.jpg?raw=true"/>
+Beautiful photos and images fascinate me. Here is my <a href="/images/gallery" target="_blank">Gallery</a>.
 
 ## Bouldering
 ---
