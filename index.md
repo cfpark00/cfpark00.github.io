@@ -18,7 +18,7 @@ In the cosmology course of Professor Cora Dvorkin at Harvard University, my fina
 <img src="images/Thumb_CoreFPark_MinkowskiFunctionals.png?raw=true"/>
 
 ### Barnes-Hut Simulation in Python (2018/06)
-In the computational Physics course of Professor Hawoong Jeon at Korea Advanced Institute of Science and Technology, my final project was to build a graviational N-body simulation. To avoid the naive computational complexity of N<sup>2</sup>, I implemented the Barnes-Hut approximation based on an Oct-Tree. The methods and results are summarized in the report: "Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics".
+In the computational Physics course of Professor Hawoong Jeon at Korea Advanced Institute of Science and Technology, my final project was to build a graviational N-body simulation. To avoid the naive computational complexity of N<sup>2</sup>, I implemented the Barnes-Hut approximation based on an Oct-Tree. The methods and results are summarized in the report: "Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics".  
 <a href="/pdf/CoreFPark_BHReport.pdf" target="_blank">Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics</a>
 <img src="images/Thumb_CoreFPark_BHReport.png?raw=true"/>
 
@@ -30,7 +30,7 @@ _cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analy
 <img src="images/Thumb_cosgeopy.png?raw=true"/>
 
 ### _BarnesHutPy_, Barnes-Hut Simulation in Python (2018/06)
-The code, _BarnesHutPy_, is uncommented but can be explained upon contact. It implements the Barnes-Hut approximation based on an octr-tree structure to an n-body simulation. Dynamical time stepping and Ewald summation are not implemented. The potential is simply balanced assuming homogeneity.
+The code, _BarnesHutPy_, is uncommented but can be explained upon contact. It implements the Barnes-Hut approximation based on an octr-tree structure to an n-body simulation. Dynamical time stepping and Ewald summation are not implemented. The potential is simply balanced assuming homogeneity.  
 <a href="https://github.com/cfpark00" target="_blank">_BarnesHutPy_</a>  
 <img src="images/Thumb_BHPy.png?raw=true"/>
 
@@ -44,7 +44,8 @@ Sign-up for Korean food party mailing list:
 
 ## Travel
 ---
-Here is the world map of places I traveled.
+Here is the world map of places I traveled.  
+Seoul, Geneva, Paris, Boston
 
 ## Photography
 ---
@@ -54,7 +55,7 @@ Beautiful photos and images fascinate me. Here is my gallery.
 
 ## Bouldering
 ---
-I like lost physical activities. I find bouldering especially fun.
+I like lost physical activities. I find bouldering especially fun.  
 
 <!---
 ## Guitar Learning
