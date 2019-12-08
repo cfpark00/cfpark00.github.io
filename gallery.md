@@ -1,7 +1,10 @@
 # Core Franciso Park's Gallery
 ---
 
-<details><summary><h2>Travel</h2></summary>
+<details>
+  <summary>
+    <h2>Travel</h2>
+  </summary>
 <img src="images/gallery/travel/Athens0.jpg?raw=true"/>
 </details>
 
