@@ -22,7 +22,7 @@ In the computational Physics course of Professor Hawoong Jeon at Korea Advanced 
 <a href="/pdf/CoreFPark_BHReport.pdf" target="_blank">Barnes-Hut Oct-Tree N-Body Simulation of Celestial Dynamics</a>
 <img src="images/Thumb_CoreFPark_BHReport.jpg?raw=true"/>
 
-<a href="https://github.com/cfpark00" target="_blank">_BarnesHutPy</a>
+<a href="https://github.com/cfpark00" target="_blank">_BarnesHutPy_</a>
 <img src="images/Thumb_CoreFPark_BHReport.jpg?raw=true"/>
 
 ## Repositories
