@@ -20,4 +20,3 @@
 <summary>Take A Look</summary>
   <img src="images/gallery/academic/lssred.png?raw=true"/>
 </details>
-
