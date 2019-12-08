@@ -29,7 +29,7 @@ In the computational Physics course of Professor Hawoong Jeong at Korea Advanced
 ---
 ### _cosgeopy_, tools for geometrical analysis in cosmology (2019/12)
 _cosgeopy_ is a Python 3 package comprising multiple tools for geometrical analysis of point catalogs. It was created to be applied to cosmological catalogs.  
-<a href="https://github.com/cfpark00/lsspy" target="_blank">_cosgeopy_</a>  
+<a href="https://github.com/cfpark00/cosgeopy" target="_blank">_cosgeopy_</a>  
   
 <img src="images/Thumb_cosgeopy.png?raw=true"/>
 
