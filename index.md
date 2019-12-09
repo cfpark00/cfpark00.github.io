@@ -60,11 +60,8 @@ Seoul, Geneva, Paris, Boston
 Beautiful photos and images fascinate me. Here is my <a href="/gallery">Gallery</a>.
 <!---
 ## Bouldering
----
 I like most physical activities. I find bouldering especially fun.  
-
 ## Guitar Learning
----
 --->
 
 ### Category Name 2
