@@ -41,12 +41,13 @@ The code, _BarnesHutPy_, is uncommented but can be explained upon contact. It im
 
 # Personal Life
 ---
+<!--
 ## Food
 ---
 ### Korean Food
 Sign-up for Korean food party mailing list: 
 <a href="https://forms.gle/SeaEYtYGDi2MXJZK7" target="_blank">Sign up for Korean Food Party</a>
-
+-->
 ## Travel
 ---
 Here is the world map of places I traveled.  
